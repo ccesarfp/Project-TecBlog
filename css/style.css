@@ -1,0 +1,54 @@
+/*Clear Formatting*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*Formatting Start*/
+body {
+	font-size: 1em;
+	font-family: "Trebuchet", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+/*Layout*/
+#header-area {
+	background: #f7b600;
+	padding: 15px;
+	text-align: center;
+}
+#logo-area, #menu-area {
+	padding: 10px;
+}
+#main-area {
+	width: 920px;
+	margin: 0 auto;
+}
+#content-area {
+	width: 660px;
+}
+#lateral-area {
+	width: 240px;
+}
+
+/*Menu sFormatting*/
+a {
+	text-decoration: none;
+}
+a:link, a:visited {
+	color: white;
+	padding: 8px 12px;
+}
+a:hover {
+	color: #f7b600;
+	background: white;
+}
+
+/*General Formatting*/
+h1 {
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+.branco {
+	color: white;
+}
